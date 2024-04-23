@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.choongang.L_isHotTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-04-23T06:28:53" hostname="BOOK-LCCUUB9T5H" time="0.075">
+  <properties/>
+  <testcase name="이번주의 최고 온도를 모아놓은 배열 {25, 29, 30, 31, 26, 30, 33}를 입력받은 경우, true를 리턴해야 합니다" classname="com.choongang.L_isHotTest" time="0.06"/>
+  <testcase name="이번주의 최고 온도를 모아놓은 배열 {30, 30, 30, 29, 27, 26, 25}를 입력받은 경우, true를 리턴해야 합니다" classname="com.choongang.L_isHotTest" time="0.001"/>
+  <testcase name="이번주의 최고 온도를 모아놓은 배열 {27, 30, 30, 29, 27, 26, 25}를 입력받은 경우, false를 리턴해야 합니다" classname="com.choongang.L_isHotTest" time="0.001"/>
+  <testcase name="이번주의 최고 온도를 모아놓은 배열로 빈 배열 {}을 입력받은 경우, false를 리턴해야 합니다" classname="com.choongang.L_isHotTest" time="0.001"/>
+  <testcase name="반복문(for, while)은 사용하지 말아야 합니다" classname="com.choongang.L_isHotTest" time="0.011"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
